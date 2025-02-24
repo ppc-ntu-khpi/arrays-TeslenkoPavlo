@@ -79,7 +79,7 @@ public class Exercise {
 ```
 Введіть початок діапазону: 90
 Введіть кінець діапазону: 100
-Прості числа в діапазоні від 90 до 100: 91 93 97
+Прості числа в діапазоні від 90 до 100: 97
 ```
 ![](https://github.com/ppc-ntu-khpi/arrays-TeslenkoPavlo/blob/master/img/picture3.png?raw=true)
 
