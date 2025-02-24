@@ -1,3 +1,4 @@
-cd src
-javac *.java
-java src/test/TestResult.java
+
+#!/bin/bash
+javac -d . src/domain/Exercise.java src/test/TestResult.java
+java test.TestResult
