@@ -65,7 +65,7 @@ public class Exercise {
 Введіть кінець діапазону: 10
 Прості числа в діапазоні від 1 до 10: 2 3 5 7
 ```
-![]()
+![](https://github.com/ppc-ntu-khpi/arrays-TeslenkoPavlo/blob/master/img/picture1.png?raw=true)
 
 ### Приклад 2: Пошук простих чисел від 10 до 50
 ```
@@ -73,7 +73,7 @@ public class Exercise {
 Введіть кінець діапазону: 50
 Прості числа в діапазоні від 10 до 50: 11 13 17 19 23 29 31 37 41 43 47
 ```
-![]()
+![](https://github.com/ppc-ntu-khpi/arrays-TeslenkoPavlo/blob/master/img/picture2.png?raw=true)
 
 ### Приклад 3: Пошук простих чисел від 90 до 100
 ```
@@ -81,5 +81,5 @@ public class Exercise {
 Введіть кінець діапазону: 100
 Прості числа в діапазоні від 90 до 100: 91 93 97
 ```
-![]()
+![](https://github.com/ppc-ntu-khpi/arrays-TeslenkoPavlo/blob/master/img/picture3.png?raw=true)
 
