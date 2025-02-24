@@ -1,0 +1,9 @@
+language = "java10"
+run = "run.sh"
+modules = ["java-graalvm22.3", "bash"]
+
+[deployment]
+run = ["sh", "-c", "run.sh"]
+
+[nix]
+channel = "stable-24_05"
